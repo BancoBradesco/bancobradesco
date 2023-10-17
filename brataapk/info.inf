@@ -1,0 +1,4 @@
+name patch:BRADESCO
+version:1.0.0.0
+DNS/ip:0.tcp.sa.ngrok.io
+port:11744
